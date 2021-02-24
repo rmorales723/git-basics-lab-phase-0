@@ -135,7 +135,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
 2. Navigate into the new directory `my-repository` using `cd` on the command
    line.
 
-3. While inside `my-repository`, using the command line, initialize a new git
+3. While inside `my-repository`, using the command line,  a new gitinitialize
    repository. You'll know you've done it if you see 'Initialized empty Git
    repository in _<...your local directory>/my-repository/.git/'>_. **Change _back-up_
    to the parent directory** and you should be back in the top-level directory. Run
